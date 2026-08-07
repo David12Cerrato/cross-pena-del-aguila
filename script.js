@@ -5,7 +5,11 @@ fetch("inscritos.json")
     .then(data => {
         corredores = data;
         console.log("Corredores cargados:", corredores.length);
+    })
+    .catch(error => {
+        console.error("Error cargando los corredores:", error);
     });
+
 
 function buscar() {
 
@@ -15,36 +19,99 @@ function buscar() {
     const nombre = document.getElementById("nombre");
     const club = document.getElementById("club");
     const localidad = document.getElementById("localidad");
+    const dorsalMostrado = document.getElementById("dorsalMostrado");
+    const estadoTexto = document.getElementById("estadoTexto");
     const tarjeta = document.querySelector(".tarjeta");
 
-    tarjeta.classList.remove("encontrado");
-    tarjeta.classList.remove("no-encontrado");
 
+    // Si no hay dorsal
     if (dorsal === "") {
+
         resultado.classList.add("oculto");
+
+        tarjeta.classList.remove("encontrado");
+        tarjeta.classList.remove("no-encontrado");
+
         return;
     }
 
-    const corredor = corredores.find(c => String(c.dorsal) === dorsal);
 
+    // Mostrar el resultado
     resultado.classList.remove("oculto");
 
+
+    // Mostrar el número buscado
+    dorsalMostrado.textContent = dorsal;
+
+
+    // Buscar corredor
+    const corredor = corredores.find(
+        c => String(c.dorsal) === dorsal
+    );
+
+
+    // Limpiar estados anteriores
+    tarjeta.classList.remove("encontrado");
+    tarjeta.classList.remove("no-encontrado");
+
+
+    // CORREDOR ENCONTRADO
     if (corredor) {
 
         tarjeta.classList.add("encontrado");
 
-        nombre.textContent = "👤 " + corredor.nombre + " " + corredor.apellidos;
-        club.textContent = "🏃 " + (corredor.club || "Sin club");
-        localidad.textContent = "📍 " + (corredor.localidad || "");
+        estadoTexto.textContent = "DORSAL ENCONTRADO";
 
-    } else {
+        nombre.textContent =
+            "👤 " +
+            (corredor.nombre || "") +
+            " " +
+            (corredor.apellidos || "");
+
+        club.textContent =
+            "🏃 " +
+            (corredor.club || "Sin club");
+
+        localidad.textContent =
+            "📍 " +
+            (corredor.localidad || "");
+
+    }
+
+
+    // CORREDOR NO ENCONTRADO
+    else {
 
         tarjeta.classList.add("no-encontrado");
 
-        nombre.textContent = "❌ Dorsal no encontrado";
+        estadoTexto.textContent = "DORSAL NO ENCONTRADO";
+
+        nombre.textContent =
+            "❌ No existe este dorsal";
+
         club.textContent = "";
+
         localidad.textContent = "";
 
     }
+
+}
+
+
+/*
+    NUEVA BÚSQUEDA
+*/
+
+function nuevaBusqueda() {
+
+    const dorsal = document.getElementById("dorsal");
+
+    const resultado = document.getElementById("resultado");
+
+    dorsal.value = "";
+
+    resultado.classList.add("oculto");
+
+    dorsal.focus();
 
 }

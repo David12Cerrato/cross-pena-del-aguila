@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="theme-color" content="#111827">
+
     <title>Cross Peña del Águila</title>
 
     <link rel="stylesheet" href="style.css">
@@ -10,36 +13,74 @@
 
 <body>
 
-<div class="contenedor">
+    <main class="app">
 
-    <img src="logo.png" class="logo" alt="Logo">
+        <header class="cabecera">
 
-    <h1>Cross Peña del Águila</h1>
+            <img src="logo.png" class="logo" alt="Cross Peña del Águila">
 
-    <input
-        id="dorsal"
-        type="number"
-        placeholder="Introduce el dorsal"
-        oninput="buscar()"
-        autofocus>
+            <h1>Cross Peña del Águila</h1>
 
-    <div id="resultado" class="oculto">
+            <p class="subtitulo">
+                Consulta de dorsales
+            </p>
 
-        <div class="tarjeta">
+        </header>
 
-            <h2 id="nombre"></h2>
 
-            <p id="club"></p>
+        <section class="buscador">
 
-            <p id="localidad"></p>
+            <label for="dorsal">
+                NÚMERO DE DORSAL
+            </label>
 
-        </div>
+            <input
+                id="dorsal"
+                type="number"
+                inputmode="numeric"
+                pattern="[0-9]*"
+                placeholder="000"
+                oninput="buscar()"
+                autocomplete="off"
+                autofocus>
 
-    </div>
+        </section>
 
-</div>
 
-<script src="script.js"></script>
+        <section id="resultado" class="resultado oculto">
+
+            <div class="tarjeta">
+
+                <div class="estado">
+                    <span>●</span>
+                    <span id="estadoTexto">DORSAL ENCONTRADO</span>
+                </div>
+
+                <div class="dorsal-mostrado">
+                    <span>DORSAL</span>
+                    <strong id="dorsalMostrado"></strong>
+                </div>
+
+                <h2 id="nombre"></h2>
+
+                <p id="club"></p>
+
+                <p id="localidad"></p>
+
+                <button
+    class="nueva-busqueda"
+    onclick="nuevaBusqueda()">
+    🔄 Nueva búsqueda
+</button>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <script src="script.js"></script>
 
 </body>
 </html>

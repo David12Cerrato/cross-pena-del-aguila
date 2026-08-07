@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mirador del Águila",
+    "category": "Mirador",
+    "description": "Un punto con vistas panorámicas del valle y los caminos que recorren la zona."
+  },
+  {
+    "name": "Ruta de los Pinares",
+    "category": "Ruta",
+    "description": "Una senda ideal para caminar, observar flora y disfrutar del entorno natural."
+  },
+  {
+    "name": "Plaza del Pueblo",
+    "category": "Centro",
+    "description": "El lugar de encuentro para mercados, festivales y actividades de la comunidad."
+  },
+  {
+    "name": "Cascada de la Fuente",
+    "category": "Naturaleza",
+    "description": "Un rincón tranquilo para descansar y conectar con la naturaleza."
+  }
+]

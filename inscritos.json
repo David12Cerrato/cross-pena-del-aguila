@@ -1,0 +1,1913 @@
+[
+  {
+    "dorsal": 1,
+    "nombre": "ANTONIO",
+    "apellidos": "ESPINO DURAN",
+    "club": "ATLETISMO VIRGEN DE BELEN",
+    "localidad": "GUAREÑA"
+  },
+  {
+    "dorsal": 2,
+    "nombre": "EDUARDO",
+    "apellidos": "MARTINEZ MARTINEZ",
+    "club": "",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 3,
+    "nombre": "Felipe",
+    "apellidos": "Bernal Vicente",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 4,
+    "nombre": "Rubén",
+    "apellidos": "Álvaro Perera",
+    "club": "",
+    "localidad": "Olivenza"
+  },
+  {
+    "dorsal": 5,
+    "nombre": "MODESTO",
+    "apellidos": "FERRERA BURGOS",
+    "club": "ON",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 6,
+    "nombre": "sergio",
+    "apellidos": "Flores Piñero",
+    "club": "",
+    "localidad": "Puebla de Obando"
+  },
+  {
+    "dorsal": 7,
+    "nombre": "Marta",
+    "apellidos": "Hormigo Muñoz",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 8,
+    "nombre": "Augusto Manuel",
+    "apellidos": "Mozo Castaño",
+    "club": "Club atletismo Alburquerque",
+    "localidad": "Alburquerque"
+  },
+  {
+    "dorsal": 9,
+    "nombre": "Esteban",
+    "apellidos": "JIMÉNEZ GONZÁLEZ",
+    "club": "Independiente",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 10,
+    "nombre": "Sergio",
+    "apellidos": "Guerrero Simón",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 11,
+    "nombre": "Manuel",
+    "apellidos": "Casillas Conchudo",
+    "club": "Club Atlet.Virgen de Belen",
+    "localidad": "MÉRIDA"
+  },
+  {
+    "dorsal": 12,
+    "nombre": "Rudy",
+    "apellidos": "Porrón Becerra",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 13,
+    "nombre": "FRAN",
+    "apellidos": "CÓRDOBA DURAN",
+    "club": "Aacb",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 14,
+    "nombre": "Juan Jose",
+    "apellidos": "Lechon Muesa",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 15,
+    "nombre": "JUAN ANTONIO",
+    "apellidos": "FERNANDEZ TREJO",
+    "club": "LOS ZORROS",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 16,
+    "nombre": "JUAN JOSE",
+    "apellidos": "MANCERA MENDEZ",
+    "club": "LOS ZORROS",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 17,
+    "nombre": "RAMON",
+    "apellidos": "GUERRERO LOPEZ",
+    "club": "LOS ZORROS",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 18,
+    "nombre": "Agustin",
+    "apellidos": "Reyes Crespo",
+    "club": "Maraton Badajoz",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 19,
+    "nombre": "MANUEL JESÚS",
+    "apellidos": "GAMERO ACOSTA",
+    "club": "Club Maratón Guareña",
+    "localidad": "MERIDA"
+  },
+  {
+    "dorsal": 20,
+    "nombre": "Felipe",
+    "apellidos": "De Tena Morera",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 21,
+    "nombre": "Luisma",
+    "apellidos": "Barrera Becerra",
+    "club": "Independiente",
+    "localidad": "Retamar"
+  },
+  {
+    "dorsal": 22,
+    "nombre": "Óscar ",
+    "apellidos": "Carrasco Chaves",
+    "club": "REVOLUCIONANDOTURENDIMIENTO",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 23,
+    "nombre": "Vicente ismael",
+    "apellidos": "Aceituno Rodríguez",
+    "club": "BadaSports",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 24,
+    "nombre": "Manuel",
+    "apellidos": "Santos Boza",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 25,
+    "nombre": "Carmen",
+    "apellidos": "Santiago Bueno",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 26,
+    "nombre": "Patricia",
+    "apellidos": "Moreno Marín",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 27,
+    "nombre": "DIEGO",
+    "apellidos": "GERMAN CABEZUDO",
+    "club": "CLUB TRIATLON MONTIJO",
+    "localidad": "Montijo"
+  },
+  {
+    "dorsal": 28,
+    "nombre": "Juan vicente",
+    "apellidos": "Benitez",
+    "club": "",
+    "localidad": "Don benito"
+  },
+  {
+    "dorsal": 29,
+    "nombre": "Carlos",
+    "apellidos": "Rodriguez caldera",
+    "club": "Trail comesuelas Badajoz",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 30,
+    "nombre": "VICENTE",
+    "apellidos": "SANZ ESTRELLA",
+    "club": "CLUB MARATON BADAJOZ",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 31,
+    "nombre": "Marco Antonio",
+    "apellidos": "Nogales Montero",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 32,
+    "nombre": "BRUNO FEDERICO",
+    "apellidos": "URBIETA",
+    "club": "-",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 33,
+    "nombre": "MOISES",
+    "apellidos": "GARCÍA VADILLO",
+    "club": "",
+    "localidad": "VILLAR DEL REY"
+  },
+  {
+    "dorsal": 34,
+    "nombre": "TINA",
+    "apellidos": "MARÍA RAMOS",
+    "club": "CLUB A.D. ATLETAS DON BENITO",
+    "localidad": "VALDEBOTOA"
+  },
+  {
+    "dorsal": 35,
+    "nombre": "VICTOR MANUEL",
+    "apellidos": "HERNANDEZ JIMENEZ",
+    "club": "ASFAS",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 36,
+    "nombre": "SANTIAGO",
+    "apellidos": "GARCIA PACHECO",
+    "club": "ASFAS",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 37,
+    "nombre": "Álvaro",
+    "apellidos": "Peña Morgado",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 38,
+    "nombre": "David",
+    "apellidos": "Pérez Guerrero",
+    "club": "Asfas",
+    "localidad": "Badajoz Capital"
+  },
+  {
+    "dorsal": 39,
+    "nombre": "JESÚS",
+    "apellidos": "VIVAS LINARES",
+    "club": "",
+    "localidad": "VILLAR DEL REY"
+  },
+  {
+    "dorsal": 40,
+    "nombre": "Sergio",
+    "apellidos": "Lorido Contreras",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 41,
+    "nombre": "EDUARDO",
+    "apellidos": "SUBIRÁN ALBA",
+    "club": "MARATÓN BADAJOZ",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 42,
+    "nombre": "Juan Alberto",
+    "apellidos": "Soria Martínez",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 43,
+    "nombre": "Alberto",
+    "apellidos": "López Cupido",
+    "club": "Maratón Badajoz",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 44,
+    "nombre": "Rafael",
+    "apellidos": "García González",
+    "club": "Triatlón Jerez de los Caballeros",
+    "localidad": "Jerez de los Caballeros"
+  },
+  {
+    "dorsal": 45,
+    "nombre": "Jose Antonio",
+    "apellidos": "Garcia Zambrano",
+    "club": "Club Atletismo Zafra",
+    "localidad": "Fuente del Maestre"
+  },
+  {
+    "dorsal": 46,
+    "nombre": "Jose Manuel",
+    "apellidos": "Sopa Gallego",
+    "club": "AACB",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 47,
+    "nombre": "Jose",
+    "apellidos": "González Benítez",
+    "club": "CLUB MARATON BADAJOZ",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 48,
+    "nombre": "Carlos",
+    "apellidos": "Muñoz Medina",
+    "club": "",
+    "localidad": "Villanueva de la Serena"
+  },
+  {
+    "dorsal": 49,
+    "nombre": "Alexis",
+    "apellidos": "Morgado amaya",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 50,
+    "nombre": "Esther",
+    "apellidos": "Gonzalez santos",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 51,
+    "nombre": "Jose Ramon",
+    "apellidos": "Dominguez Barroso",
+    "club": "Capex",
+    "localidad": "Almendralejo"
+  },
+  {
+    "dorsal": 52,
+    "nombre": "ANTONIO",
+    "apellidos": "GONZÁLEZ GOMEZ",
+    "club": "AACB",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 53,
+    "nombre": "AGUSTIN",
+    "apellidos": "HERNÁNDEZ ATIENZA",
+    "club": "AACB",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 54,
+    "nombre": "Miguel José",
+    "apellidos": "Bejarano",
+    "club": "AP Peña del Águila",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 55,
+    "nombre": "Óscar",
+    "apellidos": "Guerra Domínguez",
+    "club": "",
+    "localidad": "Alburquerque"
+  },
+  {
+    "dorsal": 56,
+    "nombre": "David",
+    "apellidos": "Duarte Berjano",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 57,
+    "nombre": "Aurelio",
+    "apellidos": "Macarro Chamorro",
+    "club": "No",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 58,
+    "nombre": "Francisco Javier",
+    "apellidos": "Alfonso López",
+    "club": "Independiente",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 59,
+    "nombre": "Victor",
+    "apellidos": "Lucas Macarro",
+    "club": "AACB",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 60,
+    "nombre": "Manuel",
+    "apellidos": "Cava Ramos",
+    "club": "Club Maratón Badajoz",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 61,
+    "nombre": "Francisco",
+    "apellidos": "Barrios Ramos",
+    "club": "Atletismo Zafra",
+    "localidad": "Fuente del Maestre"
+  },
+  {
+    "dorsal": 62,
+    "nombre": "Jose Antonio",
+    "apellidos": "Griñon Teodoro",
+    "club": "ASOCIACIÓN ATLÉTICA CIUDAD DE BADAJOZ",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 63,
+    "nombre": "Andrés",
+    "apellidos": "de la Villa Fernández",
+    "club": "KM0 MERIDA",
+    "localidad": "MERIDA"
+  },
+  {
+    "dorsal": 64,
+    "nombre": "Juan Antonio",
+    "apellidos": "Polo Montero",
+    "club": "Asociación deportiva Puebla Trail",
+    "localidad": "Montijo"
+  },
+  {
+    "dorsal": 65,
+    "nombre": "Antonio",
+    "apellidos": "Borrego Gutiérrez",
+    "club": "Asociación deportiva Puebla trail",
+    "localidad": "Lobon"
+  },
+  {
+    "dorsal": 66,
+    "nombre": "José María",
+    "apellidos": "Romero Hernandez",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 67,
+    "nombre": "María Ángeles",
+    "apellidos": "Cruces Alfonso",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 68,
+    "nombre": "Armando",
+    "apellidos": "Lacerda",
+    "club": "Grupo Desportivo Diana",
+    "localidad": "Estremoz - Portugal"
+  },
+  {
+    "dorsal": 69,
+    "nombre": "Mario",
+    "apellidos": "villares barrena",
+    "club": "",
+    "localidad": "la roca de la sierra"
+  },
+  {
+    "dorsal": 70,
+    "nombre": "Jose antonio",
+    "apellidos": "núñez román",
+    "club": "",
+    "localidad": "villar del rey"
+  },
+  {
+    "dorsal": 71,
+    "nombre": "Alejandro",
+    "apellidos": "Rodriguez Juez",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 72,
+    "nombre": "Jose Antonio",
+    "apellidos": "Estevez Díaz",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 73,
+    "nombre": "Barse",
+    "apellidos": "Medina Carballo",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 74,
+    "nombre": "Carmen Belén",
+    "apellidos": "Carballo boza",
+    "club": "",
+    "localidad": "MONTANCHEZ"
+  },
+  {
+    "dorsal": 75,
+    "nombre": "Hipólito",
+    "apellidos": "Hoyos Meneses",
+    "club": "",
+    "localidad": "Montanchez"
+  },
+  {
+    "dorsal": 76,
+    "nombre": "Antonio Manuel",
+    "apellidos": "Muñoz Blanco",
+    "club": "BadaSports RC",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 77,
+    "nombre": "Manuel",
+    "apellidos": "Sache lindo",
+    "club": "Badasports",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 78,
+    "nombre": "Hermenegildo",
+    "apellidos": "Cardoso Gómez",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 79,
+    "nombre": "Miguel",
+    "apellidos": "Rubio Torres",
+    "club": "KM0 MERIDA",
+    "localidad": "Merida"
+  },
+  {
+    "dorsal": 80,
+    "nombre": "MARIA DE LOS ANGELES",
+    "apellidos": "TRUJILLO MENDEZ",
+    "club": "ATLETISMO SANVICENTEÑO",
+    "localidad": "SAN VICENTE DE ALCANTARA"
+  },
+  {
+    "dorsal": 81,
+    "nombre": "JUAN FRANCISCO",
+    "apellidos": "ALVAREZ VIOLA",
+    "club": "ATKETISMO SANVICENTEÑO",
+    "localidad": "SAN VICENTE DE ALCANTARA"
+  },
+  {
+    "dorsal": 82,
+    "nombre": "JUAN DE DIOS",
+    "apellidos": "RODRÍGUEZ TORRES",
+    "club": "CLUB ATLETISMO MITREO DE MÉRIDA",
+    "localidad": "MÉRIDA"
+  },
+  {
+    "dorsal": 83,
+    "nombre": "Jose",
+    "apellidos": "Cidoncha Dominguez",
+    "club": "AACB",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 84,
+    "nombre": "David",
+    "apellidos": "Trigo Díaz",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 85,
+    "nombre": "Trinidad",
+    "apellidos": "Gracia garcia",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 86,
+    "nombre": "LUIS CARLOS",
+    "apellidos": "VILLANUEVA ROMERO",
+    "club": "CLUB MARATON BADAJOZ",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 87,
+    "nombre": "Maria José",
+    "apellidos": "Ardila Gallardo",
+    "club": "Independiente",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 88,
+    "nombre": "Jaime",
+    "apellidos": "Gragera Rodriguez",
+    "club": "Maratón Badajoz",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 89,
+    "nombre": "Angel Luis",
+    "apellidos": "León Moreno",
+    "club": "Atletismo Badajoz",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 90,
+    "nombre": "Manuel",
+    "apellidos": "Obreo Diez",
+    "club": "Club Maratón Badajoz",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 91,
+    "nombre": "JACINTO",
+    "apellidos": "SALAZAR GALEÓN",
+    "club": "KM0 MERIDA",
+    "localidad": "LA GARROVILLA"
+  },
+  {
+    "dorsal": 92,
+    "nombre": "Estefanía",
+    "apellidos": "Guerrero Fragoso",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 93,
+    "nombre": "Javier",
+    "apellidos": "López Bravo",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 94,
+    "nombre": "José Antonio",
+    "apellidos": "Rodríguez Durán",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 95,
+    "nombre": "Pedro Antonio",
+    "apellidos": "Fernández López",
+    "club": "",
+    "localidad": "Calamonte"
+  },
+  {
+    "dorsal": 96,
+    "nombre": "Fran",
+    "apellidos": "Cardoso Berrocal",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 97,
+    "nombre": "Alonso",
+    "apellidos": "Trinidad Carrasco",
+    "club": "",
+    "localidad": "Villar Del Rey"
+  },
+  {
+    "dorsal": 98,
+    "nombre": "Antonio",
+    "apellidos": "Cruz Sánchez",
+    "club": "Asociación deportiva puebla trail",
+    "localidad": "Puebla de la calzada"
+  },
+  {
+    "dorsal": 99,
+    "nombre": "Diego",
+    "apellidos": "Germán Cruz",
+    "club": "A.D PUEBLA TRAIL",
+    "localidad": "Montijo"
+  },
+  {
+    "dorsal": 100,
+    "nombre": "ANTONIO",
+    "apellidos": "CASQUERO SAENZ",
+    "club": "CLUB COI DEHESA BOTOA",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 101,
+    "nombre": "Guillermo",
+    "apellidos": "Casquero Saenz",
+    "club": "CLUB COI DEHESA DE BOTOA",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 102,
+    "nombre": "Jose Manuel",
+    "apellidos": "Torrescusa Vara",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 103,
+    "nombre": "Antonio",
+    "apellidos": "Sánchez Morán",
+    "club": "Independiente",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 104,
+    "nombre": "ANTONIO",
+    "apellidos": "FLORES SANTOS",
+    "club": "",
+    "localidad": "BARRO"
+  },
+  {
+    "dorsal": 105,
+    "nombre": "Maria",
+    "apellidos": "Vazquez Cebrino",
+    "club": "",
+    "localidad": "Puebla de Obando (Badajoz)"
+  },
+  {
+    "dorsal": 106,
+    "nombre": "Juan Pedro",
+    "apellidos": "Rodríguez Cabezas",
+    "club": "Tira pal monte",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 107,
+    "nombre": "Román",
+    "apellidos": "Cerrato Rodríguez",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 108,
+    "nombre": "Santos",
+    "apellidos": "Caballero Benitez",
+    "club": "Badasport",
+    "localidad": "Valdelacalzada"
+  },
+  {
+    "dorsal": 109,
+    "nombre": "Lola",
+    "apellidos": "Parra Quesada",
+    "club": "Independiente",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 110,
+    "nombre": "Alejandro",
+    "apellidos": "Álvarez Romero",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 111,
+    "nombre": "SILVIA",
+    "apellidos": "ANDRADE CASTRO",
+    "club": "CLUB CROSS COI DEHESA DE BOTOA",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 112,
+    "nombre": "ANTONIO ALFONSO",
+    "apellidos": "ROJAS JIMENEZ",
+    "club": "CLUB COI DEHESA DE BOTOA",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 113,
+    "nombre": "Alejandro",
+    "apellidos": "Pardo De la Concepción",
+    "club": "Peña del águila",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 114,
+    "nombre": "Juan Manuel",
+    "apellidos": "Bermejo Hormigo",
+    "club": "A P PEÑA DEL AGUILA",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 115,
+    "nombre": "María Carmen",
+    "apellidos": "Santos Boza",
+    "club": "A P PEÑA DEL AGUILA",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 116,
+    "nombre": "José Manuel",
+    "apellidos": "Mateos Rodríguez",
+    "club": "Maratón Badajoz",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 117,
+    "nombre": "BARSE",
+    "apellidos": "Medina Carballo",
+    "club": "",
+    "localidad": "Dirango"
+  },
+  {
+    "dorsal": 118,
+    "nombre": "JUAN MANUEL",
+    "apellidos": "ÁNGEL ÁVILA",
+    "club": "MARATÓN BADAJOZ",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 119,
+    "nombre": "Toni",
+    "apellidos": "Bueno Álvarez",
+    "club": "",
+    "localidad": "Zestoa"
+  },
+  {
+    "dorsal": 120,
+    "nombre": "Francisco Javier",
+    "apellidos": "Pulido Martín",
+    "club": "MTB LA ROCA",
+    "localidad": "La Roca de la Sierra"
+  },
+  {
+    "dorsal": 121,
+    "nombre": "Julio Alberto",
+    "apellidos": "Rodríguez García",
+    "club": "ASFAS",
+    "localidad": "Olivenza"
+  },
+  {
+    "dorsal": 122,
+    "nombre": "Valentin",
+    "apellidos": "Rangel Delgado",
+    "club": "Iron Will",
+    "localidad": "Badalona"
+  },
+  {
+    "dorsal": 123,
+    "nombre": "Juan Manuel",
+    "apellidos": "Santos Álvarez",
+    "club": "Independiente",
+    "localidad": "Almendralejo"
+  },
+  {
+    "dorsal": 124,
+    "nombre": "Ana María",
+    "apellidos": "Huertas Fernandez",
+    "club": "",
+    "localidad": "Montánchez"
+  },
+  {
+    "dorsal": 125,
+    "nombre": "SERGIO",
+    "apellidos": "HERRERA FERRERA",
+    "club": "Badasport",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 126,
+    "nombre": "Abraham",
+    "apellidos": "Chacón Morejon",
+    "club": "BadaSports RC",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 127,
+    "nombre": "Jorge",
+    "apellidos": "Piriz Castaño",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 128,
+    "nombre": "Manuel",
+    "apellidos": "Real",
+    "club": "COAAL - Clube de Orientação do Alto Alentejo",
+    "localidad": "Portel - Portugal"
+  },
+  {
+    "dorsal": 129,
+    "nombre": "Emilia",
+    "apellidos": "Silveira",
+    "club": "ADN Mértola",
+    "localidad": "Portel-Portugal"
+  },
+  {
+    "dorsal": 130,
+    "nombre": "VERONICA",
+    "apellidos": "LLANO RONCERO",
+    "club": "",
+    "localidad": "Montánchez"
+  },
+  {
+    "dorsal": 131,
+    "nombre": "EMÍLIO",
+    "apellidos": "PAULINO",
+    "club": "ACPortalegre/UTSM",
+    "localidad": "ARRONCHES"
+  },
+  {
+    "dorsal": 132,
+    "nombre": "Patrícia",
+    "apellidos": "Pardal",
+    "club": "COAAL- Clube Orientação do Alto Alentejo",
+    "localidad": "Portel- Portugal"
+  },
+  {
+    "dorsal": 133,
+    "nombre": "Sancho",
+    "apellidos": "Bejarano Risco",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 134,
+    "nombre": "Jesus",
+    "apellidos": "Corbacho vaz",
+    "club": "AACB",
+    "localidad": "Olivenza"
+  },
+  {
+    "dorsal": 135,
+    "nombre": "Javier",
+    "apellidos": "Rodríguez Pérez",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 136,
+    "nombre": "FRANCISCO",
+    "apellidos": "PARRA ALVAREZ",
+    "club": "Capex",
+    "localidad": "ALMENDRALEJO"
+  },
+  {
+    "dorsal": 137,
+    "nombre": "Alberto",
+    "apellidos": "Hernández Iglesias",
+    "club": "CLUB ATLETISMO BADAJOZ",
+    "localidad": "La Roca de la Sierra"
+  },
+  {
+    "dorsal": 138,
+    "nombre": "JOSE A",
+    "apellidos": "CALDERON HURTADO",
+    "club": "BADASPORT",
+    "localidad": "VILLAR DEL REY"
+  },
+  {
+    "dorsal": 139,
+    "nombre": "ANGEL",
+    "apellidos": "ROMAN MARQUEZ",
+    "club": "",
+    "localidad": "ALBURQUERQUE"
+  },
+  {
+    "dorsal": 140,
+    "nombre": "SANTIAGO",
+    "apellidos": "MORO GONZALEZ",
+    "club": "",
+    "localidad": "ALBURQUERQUE"
+  },
+  {
+    "dorsal": 141,
+    "nombre": "JUAN JOSE",
+    "apellidos": "MARQUEZ ESCUDERO",
+    "club": "",
+    "localidad": "ALBURQUERQUE"
+  },
+  {
+    "dorsal": 142,
+    "nombre": "Juan Antonio",
+    "apellidos": "Paulino García",
+    "club": "BadaSport",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 143,
+    "nombre": "Jesus",
+    "apellidos": "Arnela Roman",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 144,
+    "nombre": "Francisco",
+    "apellidos": "López Hurtado",
+    "club": "Independiente",
+    "localidad": "Zafra"
+  },
+  {
+    "dorsal": 145,
+    "nombre": "María José",
+    "apellidos": "Ortés Pineda",
+    "club": "Independiente",
+    "localidad": "Zafra"
+  },
+  {
+    "dorsal": 146,
+    "nombre": "RUBEN",
+    "apellidos": "MONTESINO DUQUE",
+    "club": "",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 147,
+    "nombre": "Tomás",
+    "apellidos": "Landero Tarrat",
+    "club": "",
+    "localidad": "Alburquerque"
+  },
+  {
+    "dorsal": 148,
+    "nombre": "Rafael",
+    "apellidos": "Navas Nevado",
+    "club": "AD IES GREGORIO MARAÑON",
+    "localidad": "Medina de las Torres"
+  },
+  {
+    "dorsal": 149,
+    "nombre": "Juan Luis",
+    "apellidos": "García Cordero",
+    "club": "Unión deportiva Medina",
+    "localidad": "Medina de las Torres"
+  },
+  {
+    "dorsal": 150,
+    "nombre": "Maria",
+    "apellidos": "Cabral",
+    "club": "ACPortalegre/UTSM",
+    "localidad": "Portalegre"
+  },
+  {
+    "dorsal": 151,
+    "nombre": "Dario",
+    "apellidos": "Viva guisado",
+    "club": "Masasport",
+    "localidad": "Almendralejo"
+  },
+  {
+    "dorsal": 152,
+    "nombre": "Emilio",
+    "apellidos": "Viva carrasco",
+    "club": "Capex",
+    "localidad": "Almendralejo"
+  },
+  {
+    "dorsal": 153,
+    "nombre": "Manuel",
+    "apellidos": "Cordero Ramírez",
+    "club": "Tira pal monte",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 154,
+    "nombre": "JUAN",
+    "apellidos": "PAREJO FERNANDEZ",
+    "club": "ASFAS",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 155,
+    "nombre": "Marcelo",
+    "apellidos": "Morcillo González",
+    "club": "No",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 156,
+    "nombre": "Jara",
+    "apellidos": "Piñero Gabardino",
+    "club": "",
+    "localidad": "Montijo"
+  },
+  {
+    "dorsal": 157,
+    "nombre": "Luis María",
+    "apellidos": "Chacón Pérez",
+    "club": "Club maratón Badajoz",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 158,
+    "nombre": "Piedad",
+    "apellidos": "Parejo Gonzalez",
+    "club": "A.D villa Torremejia",
+    "localidad": "Torremejia"
+  },
+  {
+    "dorsal": 159,
+    "nombre": "Juan José",
+    "apellidos": "Nevado Zamoro",
+    "club": "Club triatlon sanvicenteño",
+    "localidad": "San Vicente de Alcántara"
+  },
+  {
+    "dorsal": 160,
+    "nombre": "Ismael",
+    "apellidos": "Recio Jorge",
+    "club": "atleta populares villar del rey",
+    "localidad": "villar del rey"
+  },
+  {
+    "dorsal": 161,
+    "nombre": "João Luis",
+    "apellidos": "Vaz Trindade",
+    "club": "Bancaleirobikes Escola ciclismo de Portalegre",
+    "localidad": "Esperança"
+  },
+  {
+    "dorsal": 162,
+    "nombre": "Román",
+    "apellidos": "Barrios Parra",
+    "club": "Club atletismo Zafra",
+    "localidad": "Fuente del Maestre"
+  },
+  {
+    "dorsal": 163,
+    "nombre": "Jose",
+    "apellidos": "Borge Flores",
+    "club": "Sekulebedarra kt",
+    "localidad": "Abadiño"
+  },
+  {
+    "dorsal": 164,
+    "nombre": "Ana",
+    "apellidos": "Ramos González",
+    "club": "Aacb",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 165,
+    "nombre": "David",
+    "apellidos": "Moreno Bellido",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 166,
+    "nombre": "Samuel",
+    "apellidos": "Hernandez Macias",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 167,
+    "nombre": "IGNACIO",
+    "apellidos": "RAMOS JIMÉNEZ",
+    "club": "",
+    "localidad": "JEREZ DE LOS CABALLEROS"
+  },
+  {
+    "dorsal": 168,
+    "nombre": "Jorge",
+    "apellidos": "Moreno Seller",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 169,
+    "nombre": "Nieves",
+    "apellidos": "Gil Vadillo",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 170,
+    "nombre": "GLORIA",
+    "apellidos": "CAÑAMARES MARÍN",
+    "club": "Independiente",
+    "localidad": "Barro"
+  },
+  {
+    "dorsal": 171,
+    "nombre": "Luis Manuel",
+    "apellidos": "Alor Pérez",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 172,
+    "nombre": "María José",
+    "apellidos": "Fonseca Gómez",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 173,
+    "nombre": "Jose Manuel",
+    "apellidos": "Robles",
+    "club": "Club Maratón Badajoz",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 174,
+    "nombre": "Álvaro",
+    "apellidos": "García Gañán",
+    "club": "Independiente",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 175,
+    "nombre": "Belén Beatriz",
+    "apellidos": "González de Vallejo Pérez",
+    "club": "Independiente",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 176,
+    "nombre": "JOSÉ ANTONIO",
+    "apellidos": "RODRÍGUEZ EXPÓSITO",
+    "club": "Badasport rc",
+    "localidad": "VALDELACALZADA"
+  },
+  {
+    "dorsal": 177,
+    "nombre": "José Ramón",
+    "apellidos": "González",
+    "club": "",
+    "localidad": "Merida"
+  },
+  {
+    "dorsal": 178,
+    "nombre": "DANIEL",
+    "apellidos": "MARTIN PENA",
+    "club": "Keniatas Pacenses - ADMO",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 179,
+    "nombre": "Francisca",
+    "apellidos": "Avilés Duaz",
+    "club": "AACB",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 180,
+    "nombre": "Carlos",
+    "apellidos": "Becerra manzano",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 181,
+    "nombre": "Jesús",
+    "apellidos": "Gamero Rivero",
+    "club": "",
+    "localidad": "Alburquerque"
+  },
+  {
+    "dorsal": 182,
+    "nombre": "Jose",
+    "apellidos": "Penís Samino",
+    "club": "",
+    "localidad": "Alburquerque"
+  },
+  {
+    "dorsal": 183,
+    "nombre": "Marta",
+    "apellidos": "Cano Pérez",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 184,
+    "nombre": "José Antonio",
+    "apellidos": "Porron Pacheco",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 185,
+    "nombre": "Víctor Manuel",
+    "apellidos": "Naranjo Mata",
+    "club": "Maratón Badajoz",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 186,
+    "nombre": "Javier",
+    "apellidos": "Chaves Pilo",
+    "club": "Mtb La Roca",
+    "localidad": "La Roca de la Sierra"
+  },
+  {
+    "dorsal": 187,
+    "nombre": "Roberto",
+    "apellidos": "Parra Fernández",
+    "club": "TRIBARROS VILLAFRANCA",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 188,
+    "nombre": "MARIA LUISA",
+    "apellidos": "LINARES LLANOS",
+    "club": "BADASPORTS",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 189,
+    "nombre": "MARIA DEL PILAR",
+    "apellidos": "ESCUDERO SOLIS",
+    "club": "NO",
+    "localidad": "VILLAR DEL REY"
+  },
+  {
+    "dorsal": 190,
+    "nombre": "Camilo",
+    "apellidos": "Rodriguez Macías",
+    "club": "",
+    "localidad": "Merida"
+  },
+  {
+    "dorsal": 191,
+    "nombre": "Fernando",
+    "apellidos": "Pajuelo trujillo",
+    "club": "Atletismo lobon",
+    "localidad": "Lobon"
+  },
+  {
+    "dorsal": 192,
+    "nombre": "Celia",
+    "apellidos": "Duarte Recio",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 193,
+    "nombre": "Mario",
+    "apellidos": "Cidoncha Montero",
+    "club": "Atletismo Campiña Sur",
+    "localidad": "La Zarza"
+  },
+  {
+    "dorsal": 194,
+    "nombre": "guillermo",
+    "apellidos": "Casquero Aranda",
+    "club": "CLUB COI DEHESA BOTOA",
+    "localidad": "BADAJOZ"
+  },
+  {
+    "dorsal": 195,
+    "nombre": "Javier",
+    "apellidos": "Carballo Márquez",
+    "club": "Carballo",
+    "localidad": "Villar Del Rey"
+  },
+  {
+    "dorsal": 196,
+    "nombre": "Sergio",
+    "apellidos": "Bermejo Santos",
+    "club": "A P PEÑA DEL AGUILA",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 197,
+    "nombre": "Álvaro",
+    "apellidos": "Gómez Martínez",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 198,
+    "nombre": "Claudia",
+    "apellidos": "Romero Cruces",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 199,
+    "nombre": "Blanca",
+    "apellidos": "Romero Cruces",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 200,
+    "nombre": "Ainhoa",
+    "apellidos": "Martínez Ardila",
+    "club": "Independiente",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 201,
+    "nombre": "GUIOMAR",
+    "apellidos": "LAVADO CALVO",
+    "club": "ATLETISMO SANVICENTEÑO",
+    "localidad": "SAN VICENTE DE ALCANTARA"
+  },
+  {
+    "dorsal": 202,
+    "nombre": "Raúl",
+    "apellidos": "Hernández Gutiérrez",
+    "club": "Cross Peña del Aguila",
+    "localidad": "Villar Del Rey"
+  },
+  {
+    "dorsal": 203,
+    "nombre": "Álvaro",
+    "apellidos": "Tarriño salguero",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 204,
+    "nombre": "Manuel",
+    "apellidos": "Hernández Cardoso",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 205,
+    "nombre": "Pedro",
+    "apellidos": "Galán Carballo",
+    "club": "",
+    "localidad": "MONTANCHEZ"
+  },
+  {
+    "dorsal": 206,
+    "nombre": "Alejandro",
+    "apellidos": "Pardo Rosa",
+    "club": "Peña del águila",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 207,
+    "nombre": "Carla",
+    "apellidos": "Núñez Plata",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 208,
+    "nombre": "Manuel",
+    "apellidos": "Chaparro Gardete",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 209,
+    "nombre": "Martín",
+    "apellidos": "San Segundo Gonzalez",
+    "club": "",
+    "localidad": "Alcorcón"
+  },
+  {
+    "dorsal": 210,
+    "nombre": "Coral",
+    "apellidos": "Doblado Ceballos",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 211,
+    "nombre": "Carlos",
+    "apellidos": "Figueredo Durán",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 212,
+    "nombre": "Alberto",
+    "apellidos": "Gómez Martínez",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 213,
+    "nombre": "CARLA",
+    "apellidos": "PIRIS TRUJILLO",
+    "club": "ATLETISMO SANVICENTEÑO",
+    "localidad": "SAN VICENTE DE ALCANTARA"
+  },
+  {
+    "dorsal": 214,
+    "nombre": "LUCIA",
+    "apellidos": "GUERRERO MARTIN",
+    "club": "ATLETISMO SANVICENTEÑO",
+    "localidad": "SAN VICENTE DE ALCANTARA"
+  },
+  {
+    "dorsal": 215,
+    "nombre": "Javier",
+    "apellidos": "Flores teodoro",
+    "club": "Villar del rey",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 216,
+    "nombre": "ÉRIKA",
+    "apellidos": "FLORES CAÑAMARES",
+    "club": "",
+    "localidad": "BARRO"
+  },
+  {
+    "dorsal": 217,
+    "nombre": "Aurora",
+    "apellidos": "Santos Santiago",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 218,
+    "nombre": "CLAUDIA",
+    "apellidos": "CALDERON FARGALLO",
+    "club": "ATLETISMO ALBURQUERQUE",
+    "localidad": "VILLAR DEL REY"
+  },
+  {
+    "dorsal": 219,
+    "nombre": "Claudia",
+    "apellidos": "Núñez Pizarro",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 220,
+    "nombre": "Lidia",
+    "apellidos": "Resmella arnela",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 221,
+    "nombre": "Isaac",
+    "apellidos": "García Gutiérrez",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 222,
+    "nombre": "Pablo",
+    "apellidos": "Garcia Pavo",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 223,
+    "nombre": "Pierre",
+    "apellidos": "Bourassin Gonzalez",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 224,
+    "nombre": "Martin",
+    "apellidos": "Calvo Peña",
+    "club": "",
+    "localidad": "VILLAR DEL REY"
+  },
+  {
+    "dorsal": 225,
+    "nombre": "Lorena",
+    "apellidos": "Calleja Cardoso",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 226,
+    "nombre": "Martín",
+    "apellidos": "González Gutiérrez",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 227,
+    "nombre": "Álvaro",
+    "apellidos": "Carballo Márquez",
+    "club": "Carballo",
+    "localidad": "Villar Del Rey"
+  },
+  {
+    "dorsal": 228,
+    "nombre": "Irene",
+    "apellidos": "Holguera Rosado",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 229,
+    "nombre": "Daniela",
+    "apellidos": "Medina Palacino",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 230,
+    "nombre": "Elvira",
+    "apellidos": "Sánchez Liberal",
+    "club": "",
+    "localidad": "Alburquerque"
+  },
+  {
+    "dorsal": 231,
+    "nombre": "Rodrigo",
+    "apellidos": "Bermejo Santos",
+    "club": "A P PEÑA DEL AGUILA",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 232,
+    "nombre": "CANDELA",
+    "apellidos": "Domingo Borrego",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 233,
+    "nombre": "lara",
+    "apellidos": "Jiménez carrasco",
+    "club": "",
+    "localidad": "villar del rey"
+  },
+  {
+    "dorsal": 234,
+    "nombre": "Ariadna",
+    "apellidos": "Espárrago Holguera",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 235,
+    "nombre": "Tirso",
+    "apellidos": "Bejarano Maldonado",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 236,
+    "nombre": "Aitana",
+    "apellidos": "Pardo Rosa",
+    "club": "Peña del águila",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 237,
+    "nombre": "Zelda",
+    "apellidos": "Dominguez Rodriguez",
+    "club": "Villar del Rey",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 238,
+    "nombre": "Mario",
+    "apellidos": "Silva Castillo",
+    "club": "",
+    "localidad": "VILLAR DEL REY"
+  },
+  {
+    "dorsal": 239,
+    "nombre": "Mateo",
+    "apellidos": "Piñero Campos",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 240,
+    "nombre": "Alba",
+    "apellidos": "Galán Carballo",
+    "club": "",
+    "localidad": "MONTANCHEZ"
+  },
+  {
+    "dorsal": 241,
+    "nombre": "Hugo",
+    "apellidos": "Morgado amaya",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 242,
+    "nombre": "Gustavo Tito",
+    "apellidos": "Ferreira Trindade",
+    "club": "Bancaleirobikes Escola ciclismo Portalegre",
+    "localidad": "Esperança"
+  },
+  {
+    "dorsal": 243,
+    "nombre": "Alberto",
+    "apellidos": "Rodríguez Muñoz",
+    "club": "",
+    "localidad": "VILLAR DEL REY"
+  },
+  {
+    "dorsal": 244,
+    "nombre": "Alejandro",
+    "apellidos": "Alias Llanos",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 245,
+    "nombre": "Leyre",
+    "apellidos": "Egido Taborda",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 246,
+    "nombre": "Martín",
+    "apellidos": "Hernández Cardoso",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 247,
+    "nombre": "Asier",
+    "apellidos": "Ramón Barroso",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 248,
+    "nombre": "Rodrigo",
+    "apellidos": "Sánchez Liberal",
+    "club": "",
+    "localidad": "Alburquerque"
+  },
+  {
+    "dorsal": 249,
+    "nombre": "Álvaro",
+    "apellidos": "Figueredo Durán",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 250,
+    "nombre": "VALERIA",
+    "apellidos": "FLORES CAÑAMARES",
+    "club": "",
+    "localidad": "BARRO"
+  },
+  {
+    "dorsal": 251,
+    "nombre": "Marcos",
+    "apellidos": "Plata vicho",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 252,
+    "nombre": "ALBERTO",
+    "apellidos": "RODRIGUEZ CARDOSO",
+    "club": "",
+    "localidad": "Villar Del Rey"
+  },
+  {
+    "dorsal": 253,
+    "nombre": "Isabel",
+    "apellidos": "Santos Santiago",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 254,
+    "nombre": "Pablo",
+    "apellidos": "Bourassin Gonzalez",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 255,
+    "nombre": "Emilio",
+    "apellidos": "Álvarez Fernández",
+    "club": "Local",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 256,
+    "nombre": "PAOLA",
+    "apellidos": "FRAIRE RUBIALES",
+    "club": "",
+    "localidad": "Villar del Rry"
+  },
+  {
+    "dorsal": 257,
+    "nombre": "Jorge Mateo",
+    "apellidos": "Rodríguez Aguilera",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 258,
+    "nombre": "Oliver",
+    "apellidos": "Resmella arnela",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 259,
+    "nombre": "Dalila",
+    "apellidos": "Ferreira Trindade",
+    "club": "Bancaleirobikes Escola ciclismo Portalegre",
+    "localidad": "Esperança"
+  },
+  {
+    "dorsal": 260,
+    "nombre": "Mateo",
+    "apellidos": "Soria De La Cruz",
+    "club": "",
+    "localidad": "Badajoz"
+  },
+  {
+    "dorsal": 261,
+    "nombre": "TOMÁS",
+    "apellidos": "CASARES RUBIALES",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 262,
+    "nombre": "Marco",
+    "apellidos": "Vetriani Rodríguez",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 263,
+    "nombre": "Mario",
+    "apellidos": "Rodríguez Muñoz",
+    "club": "",
+    "localidad": "VILLAR DEL REY"
+  },
+  {
+    "dorsal": 264,
+    "nombre": "Tristán",
+    "apellidos": "Piñero Campos",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 265,
+    "nombre": "Carla",
+    "apellidos": "Serrano chaparro",
+    "club": "Villar del rey",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 266,
+    "nombre": "Miguel",
+    "apellidos": "Carballo Cardoso",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 267,
+    "nombre": "Martín",
+    "apellidos": "Plata Recio",
+    "club": "",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 268,
+    "nombre": "Alba",
+    "apellidos": "Carone Galende",
+    "club": "",
+    "localidad": "Zamora"
+  },
+  {
+    "dorsal": 269,
+    "nombre": "Raúl",
+    "apellidos": "Lechón Casates",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 270,
+    "nombre": "Silvia",
+    "apellidos": "Torrescusa Benitez-Cano",
+    "club": "",
+    "localidad": "Villar del rey"
+  },
+  {
+    "dorsal": 271,
+    "nombre": "Isabel",
+    "apellidos": "Álvarez Fernández",
+    "club": "Local",
+    "localidad": "Villar del Rey"
+  },
+  {
+    "dorsal": 272,
+    "nombre": "Hugo",
+    "apellidos": "Silva Castillo",
+    "club": "",
+    "localidad": "VILLAR DEL REY"
+  },
+  {
+    "dorsal": 273,
+    "nombre": "Nadia",
+    "apellidos": "García Gutiérrez",
+    "club": "",
+    "localidad": "Villar del rey"
+  }
+]

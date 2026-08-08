@@ -81,11 +81,27 @@
                 pattern="[0-9]*"
                 placeholder="000"
                 oninput="buscar()"
+                onchange="guardarDorsalActual()"
                 autocomplete="off"
                 autofocus>
 
         </section>
+<section class="historial">
 
+    <div class="historial-cabecera">
+        <h3>ÚLTIMOS DORSALES CONSULTADOS</h3>
+
+        <button
+            type="button"
+            class="borrar-historial"
+            onclick="borrarHistorial()">
+            🗑️ Borrar historial
+        </button>
+    </div>
+
+    <div id="historialDorsales"></div>
+
+</section>
 
         <section id="resultado" class="resultado oculto">
 

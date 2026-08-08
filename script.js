@@ -97,6 +97,108 @@ function buscar() {
 
 }
 
+/* ================================
+   HISTORIAL DE DORSALES
+================================ */
+
+let historialDorsales =
+    JSON.parse(localStorage.getItem("historialDorsales")) || [];
+
+function guardarDorsalEnHistorial(dorsal) {
+
+    dorsal = String(dorsal).trim();
+
+    if (!dorsal) {
+        return;
+    }
+
+    // Si ya estaba, lo eliminamos para colocarlo como el más reciente
+    historialDorsales =
+        historialDorsales.filter(item => item !== dorsal);
+
+    // Añadir al principio
+    historialDorsales.unshift(dorsal);
+
+    // Conservar solamente los últimos 10
+    historialDorsales =
+        historialDorsales.slice(0, 10);
+
+    localStorage.setItem(
+        "historialDorsales",
+        JSON.stringify(historialDorsales)
+    );
+
+    mostrarHistorialDorsales();
+}
+
+
+function mostrarHistorialDorsales() {
+
+    const contenedor =
+        document.getElementById("historialDorsales");
+
+    if (!contenedor) {
+        return;
+    }
+
+    contenedor.innerHTML =
+        historialDorsales
+            .map(
+                dorsal => `
+                    <button
+                        class="dorsal-historial"
+                        onclick="buscarDorsalDesdeHistorial('${dorsal}')">
+                        ${dorsal}
+                    </button>
+                `
+            )
+            .join("");
+}
+
+
+function buscarDorsalDesdeHistorial(dorsal) {
+
+    const input =
+        document.getElementById("dorsal");
+
+    input.value = dorsal;
+
+    buscar();
+}
+
+
+function borrarHistorial() {
+
+    const confirmar = confirm(
+        "¿Quieres borrar todos los dorsales consultados?"
+    );
+
+    if (!confirmar) {
+        return;
+    }
+
+    historialDorsales = [];
+
+    localStorage.removeItem("historialDorsales");
+
+    mostrarHistorialDorsales();
+}
+
+
+/* Mostrar historial al abrir la aplicación */
+mostrarHistorialDorsales();
+function guardarDorsalActual() {
+
+    const input = document.getElementById("dorsal");
+
+    const dorsal = input.value.trim();
+
+    if (dorsal === "") {
+        return;
+    }
+
+    guardarDorsalEnHistorial(dorsal);
+}
 
 /*
     NUEVA BÚSQUEDA
@@ -229,3 +331,22 @@ document.getElementById("reiniciar").addEventListener(
 /* Mostrar tiempo inicial */
 
 mostrarTiempo();
+
+/* =========================
+   AJUSTE TECLADO IPHONE
+   ========================= */
+
+const campoDorsal = document.getElementById("dorsal");
+
+campoDorsal.addEventListener("focus", function () {
+
+    setTimeout(function () {
+
+        campoDorsal.scrollIntoView({
+            behavior: "smooth",
+            block: "center"
+        });
+
+    }, 300);
+
+});

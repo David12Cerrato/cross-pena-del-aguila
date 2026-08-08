@@ -502,3 +502,19 @@ h1 {
     }
 }
 }
+/* =========================
+   AJUSTE PARA TECLADO IPHONE
+   ========================= */
+
+@media (max-width: 600px) {
+
+    body {
+        padding-bottom: 30vh;
+    }
+
+    #dorsal {
+        scroll-margin-top: 20px;
+        scroll-margin-bottom: 30vh;
+    }
+
+}

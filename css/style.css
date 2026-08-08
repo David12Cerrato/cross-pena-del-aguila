@@ -503,18 +503,103 @@ h1 {
 }
 }
 /* =========================
-   AJUSTE PARA TECLADO IPHONE
+   AJUSTE PARA CONSULTA EN IPHONE
    ========================= */
 
 @media (max-width: 600px) {
 
     body {
-        padding-bottom: 30vh;
+        padding-bottom: 0;
     }
 
-    #dorsal {
-        scroll-margin-top: 20px;
-        scroll-margin-bottom: 30vh;
+    .app {
+        padding-bottom: 20px;
     }
 
+    body:has(#dorsal:focus) .cabecera {
+        padding: 4px 8px;
+        margin-bottom: 5px;
+    }
+
+    body:has(#dorsal:focus) .logo {
+        width: 50px;
+        margin-bottom: 2px;
+    }
+
+    body:has(#dorsal:focus) h1 {
+        font-size: 15px;
+    }
+
+    body:has(#dorsal:focus) .subtitulo {
+        display: none;
+    }
+
+    body:has(#dorsal:focus) .cronometro {
+        padding: 6px 8px;
+        margin-bottom: 5px;
+    }
+
+    body:has(#dorsal:focus) .cronometro-titulo {
+        font-size: 9px;
+        margin-bottom: 2px;
+    }
+
+    body:has(#dorsal:focus) #tiempo {
+        font-size: 25px;
+        margin-bottom: 4px;
+    }
+
+    body:has(#dorsal:focus) .cronometro-botones button {
+        padding: 6px 3px;
+        font-size: 10px;
+    }
+
+    body:has(#dorsal:focus) .buscador {
+        padding: 7px;
+        margin-bottom: 5px;
+    }
+
+    body:has(#dorsal:focus) #dorsal {
+        height: 45px;
+        font-size: 27px;
+    }
+
+    body:has(#dorsal:focus) .resultado {
+        margin-bottom: 10px;
+    }
+
+    body:has(#dorsal:focus) .tarjeta {
+        padding: 9px;
+    }
+
+    body:has(#dorsal:focus) .estado {
+        margin-bottom: 3px;
+        font-size: 8px;
+    }
+
+    body:has(#dorsal:focus) .dorsal-mostrado {
+        margin-bottom: 3px;
+    }
+
+    body:has(#dorsal:focus) .dorsal-mostrado strong {
+        font-size: 27px;
+    }
+
+    body:has(#dorsal:focus) #nombre {
+        font-size: 17px;
+        margin-bottom: 3px;
+    }
+
+    body:has(#dorsal:focus) #club,
+    body:has(#dorsal:focus) #localidad {
+        font-size: 12px;
+        margin-top: 2px;
+        line-height: 1.2;
+    }
+
+    body:has(#dorsal:focus) .nueva-busqueda {
+        margin-top: 5px;
+        padding: 7px;
+        font-size: 12px;
+    }
 }

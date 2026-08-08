@@ -337,16 +337,32 @@ mostrarTiempo();
    ========================= */
 
 const campoDorsal = document.getElementById("dorsal");
+const resultadoCorredor = document.getElementById("resultado");
 
-campoDorsal.addEventListener("focus", function () {
+if (campoDorsal) {
 
-    setTimeout(function () {
+    campoDorsal.addEventListener("focus", function () {
 
-        campoDorsal.scrollIntoView({
-            behavior: "smooth",
-            block: "center"
-        });
+        setTimeout(function () {
 
-    }, 300);
+            if (!resultadoCorredor.classList.contains("oculto")) {
 
-});
+                resultadoCorredor.scrollIntoView({
+                    behavior: "auto",
+                    block: "start"
+                });
+
+            } else {
+
+                campoDorsal.scrollIntoView({
+                    behavior: "auto",
+                    block: "center"
+                });
+
+            }
+
+        }, 300);
+
+    });
+
+}

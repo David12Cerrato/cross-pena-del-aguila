@@ -1,12 +1,5 @@
 [
   {
-    "dorsal": 1,
-    "nombre": "ANTONIO",
-    "apellidos": "ESPINO DURAN",
-    "club": "ATLETISMO VIRGEN DE BELEN",
-    "localidad": "GUAREÑA"
-  },
-  {
     "dorsal": 2,
     "nombre": "EDUARDO",
     "apellidos": "MARTINEZ MARTINEZ",
@@ -148,7 +141,7 @@
   },
   {
     "dorsal": 22,
-    "nombre": "Óscar ",
+    "nombre": "Óscar",
     "apellidos": "Carrasco Chaves",
     "club": "REVOLUCIONANDOTURENDIMIENTO",
     "localidad": "Villar del Rey"

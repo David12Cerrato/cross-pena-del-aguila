@@ -89,17 +89,17 @@
 <section class="historial">
 
     <div class="historial-cabecera">
-        <h3>ÚLTIMOS DORSALES CONSULTADOS</h3>
+        <h3>DORSALES REGISTRADOS</h3>
 
         <button
             type="button"
             class="borrar-historial"
-            onclick="borrarHistorial()">
-            🗑️ Borrar historial
+            onclick="borrarTiemposRegistrados()">
+            🗑️ Borrar tiempos
         </button>
     </div>
 
-    <div id="historialDorsales"></div>
+    <div id="dorsalesRegistrados"></div>
 
 </section>
 
@@ -122,6 +122,8 @@
                 <p id="club"></p>
 
                 <p id="localidad"></p>
+
+                <p id="tiempoRegistrado"></p>
 
                 <button
     class="nueva-busqueda"

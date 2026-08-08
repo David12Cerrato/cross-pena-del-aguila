@@ -10,6 +10,7 @@ fetch("inscritos.json")
         console.error("Error cargando los corredores:", error);
     });
 
+let temporizadorRegistro = null;
 
 function buscar() {
 
@@ -22,6 +23,8 @@ function buscar() {
     const dorsalMostrado = document.getElementById("dorsalMostrado");
     const estadoTexto = document.getElementById("estadoTexto");
     const tarjeta = document.querySelector(".tarjeta");
+    const tiempoRegistrado =
+    document.getElementById("tiempoRegistrado");
 
 
     // Si no hay dorsal
@@ -76,6 +79,26 @@ function buscar() {
             "📍 " +
             (corredor.localidad || "");
 
+            programarRegistroDorsal(dorsal);
+            
+            const registro =
+    dorsalesRegistrados.find(
+        item => String(item.dorsal) === dorsal
+    );
+
+if (registro) {
+
+    tiempoRegistrado.textContent =
+        "⏱️ Tiempo registrado: " +
+        registro.tiempo;
+
+} else {
+
+    tiempoRegistrado.textContent =
+        "⏱️ Sin tiempo registrado";
+
+}
+
     }
 
 
@@ -93,113 +116,176 @@ function buscar() {
 
         localidad.textContent = "";
 
-    }
+        tiempoRegistrado.textContent = "";
 
+    }
+function programarRegistroDorsal(dorsal) {
+
+    clearTimeout(temporizadorRegistro);
+
+    temporizadorRegistro = setTimeout(function () {
+
+        const corredor = corredores.find(
+            c => String(c.dorsal) === String(dorsal)
+        );
+
+        if (corredor) {
+            registrarDorsal(corredor, dorsal);
+        }
+
+    }, 800);
+}
 }
 
 /* ================================
-   HISTORIAL DE DORSALES
-================================ */
+   DORSALES REGISTRADOS CON TIEMPO
+   ================================ */
 
-let historialDorsales =
-    JSON.parse(localStorage.getItem("historialDorsales")) || [];
+let dorsalesRegistrados =
+    JSON.parse(localStorage.getItem("dorsalesRegistrados")) || [];
 
-function guardarDorsalEnHistorial(dorsal) {
+
+/* ================================
+   GUARDAR DORSAL CON SU TIEMPO
+   ================================ */
+
+function registrarDorsal(corredor, dorsal) {
 
     dorsal = String(dorsal).trim();
 
-    if (!dorsal) {
+    if (!dorsal || !corredor) {
         return;
     }
 
-    // Si ya estaba, lo eliminamos para colocarlo como el más reciente
-    historialDorsales =
-        historialDorsales.filter(item => item !== dorsal);
-
-    // Añadir al principio
-    historialDorsales.unshift(dorsal);
-
-    // Conservar solamente los últimos 10
-    historialDorsales =
-        historialDorsales.slice(0, 10);
-
-    localStorage.setItem(
-        "historialDorsales",
-        JSON.stringify(historialDorsales)
+    // Si ya está registrado, no hacemos nada
+    const yaRegistrado = dorsalesRegistrados.some(
+        item => String(item.dorsal) === dorsal
     );
 
-    mostrarHistorialDorsales();
+    if (yaRegistrado) {
+        return;
+    }
+
+    // Guardar el tiempo actual del cronómetro
+    const tiempo = obtenerTiempoActual();
+
+    dorsalesRegistrados.push({
+        dorsal: dorsal,
+        nombre:
+            (corredor.nombre || "") +
+            " " +
+            (corredor.apellidos || ""),
+        tiempo: tiempo
+    });
+
+    localStorage.setItem(
+        "dorsalesRegistrados",
+        JSON.stringify(dorsalesRegistrados)
+    );
+
+    mostrarDorsalesRegistrados();
 }
 
 
-function mostrarHistorialDorsales() {
+/* ================================
+   OBTENER TIEMPO ACTUAL
+   ================================ */
+
+function obtenerTiempoActual() {
+
+    let tiempoActual = tiempoAcumulado;
+
+    if (tiempoInicio !== null) {
+        tiempoActual += Date.now() - tiempoInicio;
+    }
+
+    const totalSegundos =
+        Math.floor(tiempoActual / 1000);
+
+    const horas =
+        Math.floor(totalSegundos / 3600);
+
+    const minutos =
+        Math.floor(
+            (totalSegundos % 3600) / 60
+        );
+
+    const segundos =
+        totalSegundos % 60;
+
+    return (
+        String(horas).padStart(2, "0") +
+        ":" +
+        String(minutos).padStart(2, "0") +
+        ":" +
+        String(segundos).padStart(2, "0")
+    );
+}
+
+
+/* ================================
+   MOSTRAR DORSALES REGISTRADOS
+   ================================ */
+
+function mostrarDorsalesRegistrados() {
 
     const contenedor =
-        document.getElementById("historialDorsales");
+        document.getElementById("dorsalesRegistrados");
 
     if (!contenedor) {
         return;
     }
 
     contenedor.innerHTML =
-        historialDorsales
-            .map(
-                dorsal => `
-                    <button
-                        class="dorsal-historial"
-                        onclick="buscarDorsalDesdeHistorial('${dorsal}')">
-                        ${dorsal}
-                    </button>
-                `
-            )
+        dorsalesRegistrados
+            .map(item => `
+                <div class="dorsal-registrado">
+
+                    <strong>
+                        ${item.dorsal}
+                    </strong>
+
+                    <span>
+                        ${item.nombre}
+                    </span>
+
+                    <span class="tiempo-registrado">
+                        ⏱️ ${item.tiempo}
+                    </span>
+
+                </div>
+            `)
             .join("");
 }
 
 
-function buscarDorsalDesdeHistorial(dorsal) {
+/* ================================
+   BORRAR TIEMPOS REGISTRADOS
+   ================================ */
 
-    const input =
-        document.getElementById("dorsal");
-
-    input.value = dorsal;
-
-    buscar();
-}
-
-
-function borrarHistorial() {
+function borrarTiemposRegistrados() {
 
     const confirmar = confirm(
-        "¿Quieres borrar todos los dorsales consultados?"
+        "¿Quieres borrar todos los tiempos registrados?"
     );
 
     if (!confirmar) {
         return;
     }
 
-    historialDorsales = [];
+    dorsalesRegistrados = [];
 
-    localStorage.removeItem("historialDorsales");
+    localStorage.removeItem(
+        "dorsalesRegistrados"
+    );
 
-    mostrarHistorialDorsales();
+    mostrarDorsalesRegistrados();
 }
 
 
-/* Mostrar historial al abrir la aplicación */
-mostrarHistorialDorsales();
-function guardarDorsalActual() {
+/* Mostrar registros al abrir la aplicación */
 
-    const input = document.getElementById("dorsal");
-
-    const dorsal = input.value.trim();
-
-    if (dorsal === "") {
-        return;
-    }
-
-    guardarDorsalEnHistorial(dorsal);
-}
-
+mostrarDorsalesRegistrados();
 /*
     NUEVA BÚSQUEDA
 */
